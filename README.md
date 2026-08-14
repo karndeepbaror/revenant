@@ -17,7 +17,7 @@
 [![Built with Scapy](https://img.shields.io/badge/Built%20with-Scapy-red)](https://scapy.net/)
 [![Status: Active](https://img.shields.io/badge/Status-Active-22d3ee.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff3552.svg)](CONTRIBUTING.md)
-[![Made by Cryptonic Area](https://img.shields.io/badge/Made%20by-Cryptonic%20Area-0891b2)](https://github.com/cryptonicarea)
+[![Made by Karndeep Baror](https://img.shields.io/badge/Made%20by-Karndeep%20Baror-0891b2)](https://github.com/cryptonicarea)
 
 **[Quick Start](#-quick-start)** ·
 **[Features](#-what-revenant-actually-does)** ·
@@ -296,7 +296,7 @@ modify, and redistribute, including commercially.
 
 <div align="center">
 
-**Developed by [Cryptonic Area](https://github.com/cryptonicarea)**
+**Developed by [Karndeep Baror](https://linkedin.com/in/karndeepbaror)**
 
 *REVENANT — because the traffic remembers, even after the attacker is gone.*
 
